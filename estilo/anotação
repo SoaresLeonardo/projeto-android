@@ -1,0 +1,24 @@
+ISSO È UMA ANOTAÇÂO---
+/revisão de conteúdo /estudos
+
+variavél: ajuda em questão de caso ouver necessidade de alterar algo, ex: cores ou fontes 
+são pré definidas 
+
+:root {
+    --cor0: #c5ebd6;
+    --cor1: #83e1ad;
+    --cor2: #3ddc84;
+    --cor3: #2fa866;
+    --cor4: #1a5c37;
+    --cor5: #063d1e;
+}
+
+ --CSS
+h1 {
+    color: var(--cor3);
+}
+
+/CASO SEJA PRECISO MUDAR A COR DE ALGUMA FONTE BASTA APENAS MUDAR A COR NO :ROOT
+
+https://github.com/gustavoguanabara/html-css/blob/master/aulas-pdf/16%20-%20Modelo%20de%20Caixas.pdf
+
